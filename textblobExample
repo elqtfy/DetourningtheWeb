@@ -1,0 +1,56 @@
+>>> from textblob import TextBlob
+>>> mytext = "A spectre is haunting Europe. The sepctre of communism. Also hi, my name is Sam. I'm hungry."
+>>> blob = TextBlob(mytext)
+>>> blob
+TextBlob("A spectre is haunting Europe. The sepctre of communism. Also hi, my name is Sam. I'm hungry.")
+>>> blob.senstences
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'TextBlob' object has no attribute 'senstences'
+>>> blob.sentences
+[Sentence("A spectre is haunting Europe."), Sentence("The sepctre of communism."), Sentence("Also hi, my name is Sam."), Sentence("I'm hungry.")]
+>>> blob.sentences[0]
+Sentence("A spectre is haunting Europe.")
+>>> blob.sentences[-1]
+Sentence("I'm hungry.")
+>>> blob.words
+WordList(['A', 'spectre', 'is', 'haunting', 'Europe', 'The', 'sepctre', 'of', 'communism', 'Also', 'hi', 'my', 'name', 'is', 'Sam', 'I', "'m", 'hungry'])
+>>> blob.noun_phrases
+WordList(['europe', 'sam'])
+>>> blob.sentiment
+Sentiment(polarity=0.0, subjectivity=0.0)
+>>> TextBlob("I hate cats").sentiment
+Sentiment(polarity=-0.8, subjectivity=0.9)
+
+>>> blob.tags
+[('A', u'DT'), ('spectre', u'NN'), ('is', u'VBZ'), ('haunting', u'VBG'), ('Europe', u'NNP'), ('The', u'DT'), ('sepctre', u'NN'), ('of', u'IN'), ('communism', u'NN'), ('Also', u'RB'), ('hi', u'NN'), ('my', u'PRP$'), ('name', u'NN'), ('is', u'VBZ'), ('Sam', u'NNP'), ('I', u'PRP'), ("'m", u'VBP'), ('hungry', u'JJ')]
+>>> for tag in blob.tags:
+...     print tag
+... 
+('A', u'DT')
+('spectre', u'NN')
+('is', u'VBZ')
+('haunting', u'VBG')
+('Europe', u'NNP')
+('The', u'DT')
+('sepctre', u'NN')
+('of', u'IN')
+('communism', u'NN')
+('Also', u'RB')
+('hi', u'NN')
+('my', u'PRP$')
+('name', u'NN')
+('is', u'VBZ')
+('Sam', u'NNP')
+('I', u'PRP')
+("'m", u'VBP')
+('hungry', u'JJ')
+>>> for tag in blob.tags:
+...     if tag[1] == 'NN':
+...             print tag[0]
+... 
+spectre
+sepctre
+communism
+hi
+name

@@ -1,0 +1,1131 @@
+{
+  "document_tone":{
+    "tones":[
+      {
+        "score":0.637055,
+        "tone_id":"sadness",
+        "tone_name":"Sadness"
+      },
+      {
+        "score":0.521456,
+        "tone_id":"joy",
+        "tone_name":"Joy"
+      }
+    ]
+  },
+  "sentences_tone":[
+    {
+      "sentence_id":0,
+      "text":"Wake up every morning to bills!!!!!",
+      "tones":[
+        {
+          "score":0.520486,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.942582,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":1,
+      "text":"This can’t be life, I need to be in Monaco  on a yacht sipping some mimosas.",
+      "tones":[
+        {
+          "score":0.565962,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.615352,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":2,
+      "text":"I wasn’t born to pay bills and die #SighAs some point, I’ll watch the entire exchange, but in my country, for my fellow citizens, due process isn’t an optional thing.",
+      "tones":[
+        {
+          "score":0.660071,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":3,
+      "text":"#sighRemember when cake vs. pie was the biggest Twitter debate you'd have all week?",
+      "tones":[
+        {
+          "score":0.751512,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":4,
+      "text":"I miss those days.",
+      "tones":[
+        {
+          "score":0.856451,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":5,
+      "text":"#sighQuickly running out of Bear’s favourite Burnt Sienna.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":6,
+      "text":"Again.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":7,
+      "text":"#sigh https://www.instagram.com/p/BfweJJzj8ue/",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":8,
+      "text":"Sounds silly.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":9,
+      "text":"Because if 1) the attacker has physical access, AND 2) there is no secure/trusted boot in place, then she could ALWAYS deploy an evilmaid attack (just remove the disk), regardless of silly GRUB authentications... #sigh can you work from home as a doctor?? #sighYou forgot about Manfred's new rule:  If the runner steals on a play where the catcher doesn't say \"simon says\" before doing his signs to the pitcher\" the runner has to run back across first to home and a run is deducted from the score.",
+      "tones":[
+        {
+          "score":0.709242,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":10,
+      "text":"cc: @MarkSchwab #thismayhappensomeday #sighThe state of recruiting: \"Our experts looked at your LinkedIn profile and GitHub page, and we think this Cloud DevOps position would be ideal for you.\"",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":11,
+      "text":"My LinkedIn profile says Embedded C, and my GitHub profile is full of Pascal hobby projects for retrocomputers/demoscene.",
+      "tones":[
+        {
+          "score":0.592876,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.527318,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":12,
+      "text":"#sighHad a bra fitting today, officially no longer a E cup - Now a F cup  #sigh #bigboobproblems #bigboobloversThe \"big news\" ought to be the collateral damage 99% of world's media foist upon the innocent going about their business in their pursuit of @realDonaldTrump head on plate.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":13,
+      "text":"You're all the same.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":14,
+      "text":"Political agendas disguised as truth.",
+      "tones":[
+        {
+          "score":0.849827,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":15,
+      "text":"#Sigh",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":16,
+      "text":"Pathetic really.",
+      "tones":[
+        {
+          "score":0.982476,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":17,
+      "text":"Thanks to @RepAdamSchiff for ruining the first peaceful work-free day I have had in rather a while.",
+      "tones":[
+        {
+          "score":0.736664,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":18,
+      "text":"@qjurecic and I will have an analysis as soon as we can.",
+      "tones":[
+        {
+          "score":0.842108,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":19,
+      "text":"#sigh.Worst ever vendor cold call email ... \"Can we help your organization deliver video seamlessly?\" #sighTime to unfollow @GirlWithNoJob on #instagram @peacenow31 @NickyD1071 #sigh  Although it didn't help when @BarackObama was POSTUS, it would've been good if @realDonaldTrump took a lesson on the Constitution before HE became POTUS.",
+      "tones":[
+        {
+          "score":0.757335,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.620279,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":20,
+      "text":"#sigh Morning peeps!!",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":21,
+      "text":"Is it Friday yet??? Nope only Humpity Dumpity Wednesday.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":22,
+      "text":"#sigh But at least we're closer to the weekend.",
+      "tones":[
+        {
+          "score":0.712009,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":23,
+      "text":"Anyway, #cheers to coffee time!",
+      "tones":[
+        {
+          "score":0.680755,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id":24,
+      "text":"Have a good one lovelies.",
+      "tones":[
+        {
+          "score":0.79572,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id":25,
+      "text":"Im sorry Tessa this not 93%percent of PA isnt like this.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":26,
+      "text":"And this BS right here that they doin,  lets say Im not proud of this PA Moment.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":27,
+      "text":"But we all have some crazy BS people somewhere #sigh “At no time were our management, creative, marketing, departments involved in this.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":28,
+      "text":"It was Bruk Foot Charlie, the tea boy’s idea.",
+      "tones":[
+        {
+          "score":0.573017,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.724236,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":29,
+      "text":"He produced this all by himself ....honestly!!”  #Sigh #Testcon @VasBlackwoodMe: I have tons of writerly things to do!",
+      "tones":[
+        {
+          "score":0.556917,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.660207,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":30,
+      "text":"*Headache roars to life* ",
+      "tones":[
+        {
+          "score":0.589115,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":31,
+      "text":"Me: I’m just gonna go take a short nap.",
+      "tones":[
+        {
+          "score":0.856622,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":32,
+      "text":"*naps for an hour*",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":33,
+      "text":"Me: Yay, that’s better!",
+      "tones":[
+        {
+          "score":0.970516,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id":34,
+      "text":"*sits, down, gets situated with ipad, coffee, blanket, cat, etc.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":35,
+      "text":"*2.5 mins later, son’s school calls.*",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":36,
+      "text":"#momlife #sickkids #sigh FedEx just seriously left a package out in the rain today instead of walking it to the front porch... #sighFound on a new-build house today, installed by a large NICEIC contractor: bell transformer floating in CU, additional fused isolator at intake (why??), cables installed in enclosure with strain relief removed & CPC cut out, 3-core to light (!) with basic insulation exposed.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":37,
+      "text":"#Sigh should be hung at sunrise, but will be happily eating thin mints tonight #sighnow that I have a son leaving for college and I am struggling with not seeing him live every single day I could not even imgine going 5 years.",
+      "tones":[
+        {
+          "score":0.774546,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":38,
+      "text":"#sigh #tearsThe recipe for misinformation?",
+      "tones":[
+        {
+          "score":0.610941,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":39,
+      "text":"\"Drinking alcohol key to living past 90?",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":40,
+      "text":"What you need to know\" https://www.healthnewsreview.org/2018/02/drinking-alcohol-key-living-past-90-need-know/#.WpQJRoFwQTs.twitter",
+      "tones":[
+        {
+          "score":0.882284,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":41,
+      "text":"… via @mlmjoyce Correlation ≠ Causation.",
+      "tones":[
+        {
+          "score":0.982476,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":42,
+      "text":"#Sigh.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":43,
+      "text":"(Though, obviously, coffee does lower risk of early death.",
+      "tones":[
+        {
+          "score":0.615612,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.874372,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":44,
+      "text":"Obviously.)First",
+      "tones":[
+        {
+          "score":0.920855,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        },
+        {
+          "score":0.996934,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":45,
+      "text":"tax cuts for the rich.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":46,
+      "text":"Now @RepMarkMeadows wants armed vigilantes in  schools.",
+      "tones":[
+        {
+          "score":0.657684,
+          "tone_id":"fear",
+          "tone_name":"Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id":47,
+      "text":"#sigh ",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":48,
+      "text":"https://tinyurl.com/ybfnvhrr",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":49,
+      "text":"Again, because apprently it is still required:  Dear every website, No I do not want to share my location, no I do not want to have desktop notifications from your site and no I do not want to chat with.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":50,
+      "text":"STOP BEING ANNOYING.",
+      "tones":[
+        {
+          "score":0.827854,
+          "tone_id":"anger",
+          "tone_name":"Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id":51,
+      "text":"I'll let you know if i need something.",
+      "tones":[
+        {
+          "score":0.88939,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        },
+        {
+          "score":0.931038,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":52,
+      "text":"#sighThe Police Station in Kagoro,  Kaduna State  closes by 7pm.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":53,
+      "text":"They say it's due to security reasons.#SighWhy",
+      "tones":[
+        {
+          "score":0.961593,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":54,
+      "text":"do phone contracts have to be 2 years long?",
+      "tones":[
+        {
+          "score":0.833309,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":55,
+      "text":"#sigh",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":56,
+      "text":"",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":57,
+      "text":"Within 6 months an iPhone is out of date (which is why I don't have one) ",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":58,
+      "text":"",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":59,
+      "text":"Or you drop it in 6 months and the screen is barely useable #whyme and cba to get it fixed #firstworldproblems ",
+      "tones":[
+        {
+          "score":0.644004,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.704683,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        },
+        {
+          "score":0.649361,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":60,
+      "text":"",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":61,
+      "text":"Will defo buy a phone and @giffgaffNo, it's not a diaper bag... why would you... nevermind.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":62,
+      "text":"#sighClose up #sigh @rogerfederer “Boiiii just stop asking questions & send the fuckin siiiirens!”",
+      "tones":[
+        {
+          "score":0.863287,
+          "tone_id":"anger",
+          "tone_name":"Anger"
+        },
+        {
+          "score":0.716301,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":63,
+      "text":"“Sir we have to ask the questions we ask.”",
+      "tones":[
+        {
+          "score":0.920855,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        },
+        {
+          "score":0.833309,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":64,
+      "text":"",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":65,
+      "text":"“Mothafucka I am a law breaka I dont care!!!”  ",
+      "tones":[
+        {
+          "score":0.660207,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":66,
+      "text":"#Sigh.As a teacher who was part of armed intruder drills before I retired, I hear you.",
+      "tones":[
+        {
+          "score":0.528571,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":67,
+      "text":"#sigh #hanginthereBut wasn't it last week Friday during our digital talk that I mentioned Glen will leave TouchHD soon?",
+      "tones":[
+        {
+          "score":0.629296,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":68,
+      "text":"#sigh look now @TSMathebula_SAIt's only Tuesday...",
+      "tones":[
+        {
+          "score":0.729544,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.620279,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":69,
+      "text":"#sigh When you think you’re almost done processing a spreadsheet and then notice there are two tabs.",
+      "tones":[
+        {
+          "score":0.658882,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.615352,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        },
+        {
+          "score":0.664451,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":70,
+      "text":"#sighI still hesitate with effect/affect.",
+      "tones":[
+        {
+          "score":0.946222,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        },
+        {
+          "score":0.955445,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":71,
+      "text":"#sighA squirrel has decided to tear open one of our outdoor chair cushions and fashion himself a little snacking nest.",
+      "tones":[
+        {
+          "score":0.687768,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        },
+        {
+          "score":0.618451,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":72,
+      "text":"I don't have the heart to shoo him but if I don't..... #DaisyMae will want to play chase.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":73,
+      "text":"#sigh buti naman nakaraos sa exam.",
+      "tones":[
+        {
+          "score":0.593332,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":74,
+      "text":"hay.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":75,
+      "text":"not that good but also not that bad.",
+      "tones":[
+        {
+          "score":0.974578,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":76,
+      "text":"woke up at 2am with an extremely upset stomach and got to sleep only at around 6. ayun walang review.",
+      "tones":[
+        {
+          "score":0.539198,
+          "tone_id":"fear",
+          "tone_name":"Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id":77,
+      "text":"I tried to but I felt so sleepy I can't understand a thing.",
+      "tones":[
+        {
+          "score":0.714604,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.716301,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":78,
+      "text":"#3/6 #sigh #twitterdiaryJust a bad day not a bad life.",
+      "tones":[
+        {
+          "score":0.809932,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":79,
+      "text":"#sighThat one day you forget your umbrella it rains like hell.",
+      "tones":[
+        {
+          "score":0.501273,
+          "tone_id":"anger",
+          "tone_name":"Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id":80,
+      "text":"Thank you rain for influencing my condition of cold.",
+      "tones":[
+        {
+          "score":0.793846,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":81,
+      "text":"Gonna struggle for another couple of days.",
+      "tones":[
+        {
+          "score":0.581131,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":82,
+      "text":"#SighActual footage of me today.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":83,
+      "text":"#Tuesdays #SIGH Man what a drama filled week.",
+      "tones":[
+        {
+          "score":0.505463,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":84,
+      "text":"None of it had anything to do with me is the funny part.",
+      "tones":[
+        {
+          "score":0.766618,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.716301,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":85,
+      "text":"All I did was help a girl being thrown out at 6am and the other was protecting my mother from potential liability and protecting my brother's honor of not being someone's white boy bitch.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":86,
+      "text":"#sighoh look, example number 4,234,198 of things Trump doesn't understand, yet he's still the president... #sigh@duranduran I haven't watched this video in YEARS.",
+      "tones":[
+        {
+          "score":0.686011,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.73677,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":87,
+      "text":"Just brought me back to being 14 and spending endless hours watching the video album.",
+      "tones":[
+        {
+          "score":0.647986,
+          "tone_id":"tentative",
+          "tone_name":"Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id":88,
+      "text":"Thanks for posting.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":89,
+      "text":"#sigh I want to say “let’s not call this Christianity,“but unfortunately this is about as quintessentially “Christian“ as things get in America… #sigh gonna miss constantly refreshing twitter looking for trades #sigh\"Hi, Wanted to check-in and see if you had a chance to read my first unsolicited marketing e-mail.",
+      "tones":[
+        {
+          "score":0.854213,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":90,
+      "text":"I didn't hear back from you\" #sighAnd that's why they took McCaffrey over Lattimore and others.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":91,
+      "text":"#sigh Woke up and felt like it was all a dream .",
+      "tones":[
+        {
+          "score":0.692443,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":92,
+      "text":"#sighMeanwhile YouTube censors and de-monetizes LGBTQ content.",
+      "tones":[
+        {
+          "score":0.650903,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.801827,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":93,
+      "text":"#sigh I’ve been suffering so bad with asthma lately.",
+      "tones":[
+        {
+          "score":0.748841,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":94,
+      "text":"Worst it’s been in a long time.",
+      "tones":[
+        {
+          "score":0.728706,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":95,
+      "text":"Preventer x 2 plus reliever, scarfie, and anti histamines describe my health right now #sigh #asthma #beastfromtheastOshey jare baami.. Funny Elnenny should've started that match for more defensive cover but Wenger went for Ramsey and Xhaka whose defensive action was to be walking around the pitch.",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":96,
+      "text":"#sigh Ok I'm seeing in that pic is the lovely  Ms Jean Byrne #sighWhy can’t it just snow at Christmas!?  #sigh #overitHaving those “I’d rather be at Disney” days.",
+      "tones":[
+        {
+          "score":0.524958,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":97,
+      "text":"#sigh #adultingsucksLook at those incredibly detailed realistic drawing masterpieces!",
+      "tones":[
+        {
+          "score":0.724236,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        },
+        {
+          "score":0.660207,
+          "tone_id":"confident",
+          "tone_name":"Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id":98,
+      "text":"#artfail #fails #failoftheday #handdrawing #drawinghands #talent #sigh I really need to learn to keep my mouth shut.",
+      "tones":[
+        {
+          "score":0.658988,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        },
+        {
+          "score":0.743104,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":99,
+      "text":"I mean, why do folk hate honesty so much?",
+      "tones":[
+        {
+          "score":0.741293,
+          "tone_id":"anger",
+          "tone_name":"Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id":100,
+      "text":"#keepswimminginyourfibs #sighIf we could have only got an NCAA 15 on current gen..  #sigh#sigh - the #Photography in this book makes me want to travel to #Italy @followsummergg @Italy_global @indelibleAdv http://bit.ly/italybooks",
+      "tones":[
+        {
+          "score":0.649514,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id":101,
+      "text":"Remember when the sun came out in #YYJ ?",
+      "tones":[
+        {
+          "score":0.620861,
+          "tone_id":"joy",
+          "tone_name":"Joy"
+        },
+        {
+          "score":0.762356,
+          "tone_id":"analytical",
+          "tone_name":"Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id":102,
+      "text":"#sigh http://bit.ly/2oz0Nek",
+      "tones":[
+
+      ]
+    },
+    {
+      "sentence_id":103,
+      "text":"The builder... #lego #kids #parenting #sigh #legobuilder ",
+      "tones":[
+        {
+          "score":0.614161,
+          "tone_id":"sadness",
+          "tone_name":"Sadness"
+        }
+      ]
+    }
+  ]
+}

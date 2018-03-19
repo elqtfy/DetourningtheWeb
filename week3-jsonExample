@@ -1,0 +1,6 @@
+import requests
+
+url = '' #something
+
+results = requests.get(url)
+print results.json()
